@@ -1,3 +1,9 @@
+# Mac
+.DS_Store
+
+# Generated files
+output/
+
 # Logs
 logs
 *.log
